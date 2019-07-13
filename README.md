@@ -1,3 +1,3 @@
-# Nombre original generado en StackBlitz: angular-jgsmxp
+# ng-tutorial-mystore
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jgsmxp)
